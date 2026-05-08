@@ -97,7 +97,7 @@ void FontRenderer::renderText(const std::string& text, float centerX, float cent
     if (tt.textureId == 0) return;
 
     float aspect = (float)tt.width / (float)tt.height;
-    float h = size * 0.9f;
+    float h = size;
     float w = h * aspect;
 
     struct Vertex {
@@ -106,10 +106,10 @@ void FontRenderer::renderText(const std::string& text, float centerX, float cent
     };
 
     Vertex vertices[] = {
-        {{-w/2, -h/2, 0.05f}, {0.0f, 1.0f}}, // 左下
-        {{ w/2, -h/2, 0.05f}, {1.0f, 1.0f}}, // 右下
-        {{ w/2,  h/2, 0.05f}, {1.0f, 0.0f}}, // 右上
-        {{-w/2,  h/2, 0.05f}, {0.0f, 0.0f}}  // 左上
+        {{-w/2, -h/2, 0.0f}, {0.0f, 1.0f}}, // 左下
+        {{ w/2, -h/2, 0.0f}, {1.0f, 1.0f}}, // 右下
+        {{ w/2,  h/2, 0.0f}, {1.0f, 0.0f}}, // 右上
+        {{-w/2,  h/2, 0.0f}, {0.0f, 0.0f}}  // 左上
     };
     uint16_t indices[] = {0, 1, 2, 0, 2, 3};
 
@@ -120,13 +120,15 @@ void FontRenderer::renderText(const std::string& text, float centerX, float cent
     Utility::buildIdentityMatrix(model);
     model[12] = centerX;
     model[13] = centerY;
-    shader.setMatrix("uModel", model);
-    shader.setVec2("uUVOffset", 0, 0);
-    shader.setVec2("uUVScale", 1, 1);
+    shader.setProjectionMatrix(projection);
+    shader.setModelMatrix(model);
+    shader.setVec2("uUVOffset", 0.0f, 0.0f);
+    shader.setVec2("uUVScale", 1.0f, 1.0f);
 
     glEnable(GL_BLEND);
     glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 
+    GLboolean depthTestEnabled = glIsEnabled(GL_DEPTH_TEST);
     glDisable(GL_DEPTH_TEST);
 
     GLint posAttrib = shader.getPositionAttrib();
@@ -138,5 +140,10 @@ void FontRenderer::renderText(const std::string& text, float centerX, float cent
 
     glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_SHORT, indices);
 
-    glEnable(GL_DEPTH_TEST);
+    glDisableVertexAttribArray(posAttrib);
+    glDisableVertexAttribArray(uvAttrib);
+
+    if (depthTestEnabled) {
+        glEnable(GL_DEPTH_TEST);
+    }
 }

@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so"
+			"path" : "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/arm64-v8a/liba2048_game.so"
 		}
 	],
 	"backtrace" : 1,
@@ -88,7 +88,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "/home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/libs/android.x86_64/libgame-activity_static.a",
+				"fragment" : "/home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/libs/android.arm64-v8a/libgame-activity_static.a",
 				"role" : "libraries"
 			},
 			{

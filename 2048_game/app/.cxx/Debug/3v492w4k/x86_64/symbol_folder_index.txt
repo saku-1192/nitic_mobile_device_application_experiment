@@ -1,1 +1,1 @@
-/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64
+/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64

@@ -126,6 +126,9 @@ void Shader::activate() const {
     if (texLoc != -1) {
         glUniform1i(texLoc, 0);
     }
+    // デフォルトのUVスケールとオフセットを設定
+    setVec2("uUVOffset", 0.0f, 0.0f);
+    setVec2("uUVScale", 1.0f, 1.0f);
 }
 
 void Shader::deactivate() const {

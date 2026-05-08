@@ -1,4 +1,4 @@
-# Install script for directory: /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp
+# Install script for directory: /home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/.cxx/Debug/3v492w4k/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

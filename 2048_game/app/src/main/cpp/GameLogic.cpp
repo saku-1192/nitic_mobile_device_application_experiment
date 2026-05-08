@@ -12,20 +12,9 @@ void GameLogic::reset() {
     }
     score_ = 0;
 
-    // --- テスト用に好きな数字を配置 ---
-    grid_[0][0] = 2;
-    grid_[0][1] = 4;
-    grid_[0][2] = 8;
-    grid_[0][3] = 16;
-    grid_[1][0] = 32;
-    grid_[1][1] = 64;
-    grid_[1][2] = 128;
-    grid_[1][3] = 256;
-    grid_[2][0] = 512;
-    grid_[2][1] = 1024;
-    grid_[2][2] = 2048;
-    grid_[2][3] = 4096; // 4096なども表示できるかテスト
-    // ----------------------------
+    // 初期タイルを2つ配置
+    addRandomTile();
+    addRandomTile();
 }
 
 void GameLogic::addRandomTile() {
