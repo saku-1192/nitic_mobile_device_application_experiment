@@ -1,0 +1,19 @@
+                        -H/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/saku1192/Android/Sdk/ndk/28.2.13676358
+-DCMAKE_ANDROID_NDK=/home/saku1192/Android/Sdk/ndk/28.2.13676358
+-DCMAKE_TOOLCHAIN_FILE=/home/saku1192/Android/Sdk/ndk/28.2.13676358/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/saku1192/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/5x3j2u4g/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/5x3j2u4g/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_FIND_ROOT_PATH=/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/prefab/x86/prefab
+-B/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86
+-GNinja
+                        Build command args: []
+                        Version: 2

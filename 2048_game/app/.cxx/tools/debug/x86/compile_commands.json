@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/main.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/main.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/AndroidOut.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/AndroidOut.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/AndroidOut.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/Renderer.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Renderer.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Renderer.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/Shader.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Shader.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Shader.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/TextureAsset.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/TextureAsset.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/TextureAsset.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/Utility.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Utility.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/Utility.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/GameLogic.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/GameLogic.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/GameLogic.cpp"
+},
+{
+  "directory": "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/3v492w4k/x86",
+  "command": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Da2048_game_EXPORTS -isystem /home/saku1192/.gradle/caches/9.3.1/transforms/095b106d3362bbd78cee39fef776cdfc/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/a2048_game.dir/FontRenderer.cpp.o -c /home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/FontRenderer.cpp",
+  "file": "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/FontRenderer.cpp"
+}
+]

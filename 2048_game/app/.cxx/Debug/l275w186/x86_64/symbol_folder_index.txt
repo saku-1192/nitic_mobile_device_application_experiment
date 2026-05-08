@@ -1,0 +1,1 @@
+/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/l275w186/obj/x86_64

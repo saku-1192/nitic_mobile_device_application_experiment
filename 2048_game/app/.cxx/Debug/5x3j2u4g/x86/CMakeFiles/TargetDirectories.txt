@@ -1,0 +1,3 @@
+/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86/CMakeFiles/a2048_game.dir
+/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86/CMakeFiles/edit_cache.dir
+/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86/CMakeFiles/rebuild_cache.dir

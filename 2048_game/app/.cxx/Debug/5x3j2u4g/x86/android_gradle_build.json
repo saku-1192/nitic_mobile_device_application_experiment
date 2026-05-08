@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/saku1192/AndroidStudioProjects/2048_game/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/saku1192/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/saku1192/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/saku1192/AndroidStudioProjects/2048_game/app/.cxx/Debug/5x3j2u4g/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "a2048_game::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "a2048_game",
+      "output": "/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/5x3j2u4g/obj/x86/liba2048_game.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

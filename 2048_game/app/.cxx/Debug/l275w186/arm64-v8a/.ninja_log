@@ -1,0 +1,9 @@
+# ninja log v5
+11	1300	1778215926964322687	CMakeFiles/a2048_game.dir/Utility.cpp.o	e208b0536898ddf0
+5	1304	1778215926964322687	CMakeFiles/a2048_game.dir/Shader.cpp.o	408b7122122248d3
+0	1316	1778215926979319851	CMakeFiles/a2048_game.dir/TextureAsset.cpp.o	f26584ecbab975fd
+1	1322	1778215926988318149	CMakeFiles/a2048_game.dir/AndroidOut.cpp.o	89675d4fe161b31d
+1	1566	1778215927227273114	CMakeFiles/a2048_game.dir/main.cpp.o	16db40d838e2d30f
+14	1623	1778215927284262375	CMakeFiles/a2048_game.dir/GameLogic.cpp.o	d784487564e4a9e0
+1	1960	1778215927615200015	CMakeFiles/a2048_game.dir/Renderer.cpp.o	daa66e3484529c03
+1960	2049	1778215927721180045	/home/saku1192/AndroidStudioProjects/2048_game/app/build/intermediates/cxx/Debug/l275w186/obj/arm64-v8a/liba2048_game.so	5463889e23bc28d
