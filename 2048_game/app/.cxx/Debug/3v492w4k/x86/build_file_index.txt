@@ -1,1 +1,0 @@
-/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/src/main/cpp/CMakeLists.txt
