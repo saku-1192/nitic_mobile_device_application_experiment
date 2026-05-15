@@ -1,7 +1,6 @@
 # nitic_mobile_device_application_experiment / icon
-### まだ動かないよ
 ## 方針
-アイコンを作りたい！
+アイコンを作って設定した！
 <br>
 
 ## 変更概要

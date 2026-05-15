@@ -1,13 +1,10 @@
 # ninja log v5
-4	757	1778222166594052489	CMakeFiles/a2048_game.dir/TextureAsset.cpp.o	bf44ba94cbeadb6
-0	853	1778222166691047139	CMakeFiles/a2048_game.dir/AndroidOut.cpp.o	34970e253f6ec448
-6	918	1778222166757043499	CMakeFiles/a2048_game.dir/Utility.cpp.o	d396226ac5b9960f
-3	919	1778222166759043389	CMakeFiles/a2048_game.dir/Shader.cpp.o	dcc12f0ee0f8142a
-11	1030	1778222166865037543	CMakeFiles/a2048_game.dir/FontRenderer.cpp.o	ac6c2caee80eb88c
-9	1035	1778222166872037157	CMakeFiles/a2048_game.dir/GameLogic.cpp.o	a6357cf0a913f6af
-0	1075	1778222166914034840	CMakeFiles/a2048_game.dir/main.cpp.o	fa418914e4c3eed9
-1	1188	1778222167023028829	CMakeFiles/a2048_game.dir/Renderer.cpp.o	16c34fea707df201
-1188	1231	1778222167074026016	/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so	891f272a2c24aa1b
-4	820	1778222615378735953	CMakeFiles/a2048_game.dir/FontRenderer.cpp.o	ac6c2caee80eb88c
-4	929	1778222615486755236	CMakeFiles/a2048_game.dir/Renderer.cpp.o	16c34fea707df201
-930	980	1778222615546765950	/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so	891f272a2c24aa1b
+213	2991	8005319021162928	CMakeFiles/a2048_game.dir/TextureAsset.cpp.o	ea7cf9347a586c24
+106	3293	8005319024308481	CMakeFiles/a2048_game.dir/AndroidOut.cpp.o	cc14e15529230b5a
+41	3324	8005319024368464	CMakeFiles/a2048_game.dir/Shader.cpp.o	1db9acdb04f88875
+142	3356	8005319024907662	CMakeFiles/a2048_game.dir/Utility.cpp.o	208080764c5ed68a
+1	3739	8005319028747637	CMakeFiles/a2048_game.dir/main.cpp.o	bf3b025428e048f4
+252	3796	8005319029379622	CMakeFiles/a2048_game.dir/FontRenderer.cpp.o	fe8878c0fc05fe10
+176	3803	8005319029433673	CMakeFiles/a2048_game.dir/GameLogic.cpp.o	8dd65036293a96a4
+71	3975	8005319031170375	CMakeFiles/a2048_game.dir/Renderer.cpp.o	5f01e7e7eb8f4db7
+3976	4344	8005319034723273	C:/Users/niwaw/AndroidStudioProjects/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so	fba200d2fa7f24b

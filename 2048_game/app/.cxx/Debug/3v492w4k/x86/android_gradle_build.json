@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\.cxx\\Debug\\3v492w4k\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\.cxx\\Debug\\3v492w4k\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "a2048_game::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "a2048_game",
+      "output": "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\build\\intermediates\\cxx\\Debug\\3v492w4k\\obj\\x86\\liba2048_game.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

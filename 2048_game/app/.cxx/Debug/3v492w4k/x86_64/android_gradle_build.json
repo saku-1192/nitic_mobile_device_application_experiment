@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/src/main/cpp/CMakeLists.txt"
+    "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\src\\main\\cpp\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
-      "/home/saku1192/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/.cxx/Debug/3v492w4k/x86_64",
+      "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\.cxx\\Debug\\3v492w4k\\x86_64",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
-    "/home/saku1192/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/.cxx/Debug/3v492w4k/x86_64",
+    "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\.cxx\\Debug\\3v492w4k\\x86_64",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,14 +21,14 @@
       "toolchain": "toolchain",
       "abi": "x86_64",
       "artifactName": "a2048_game",
-      "output": "/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so",
+      "output": "C:\\Users\\niwaw\\AndroidStudioProjects\\nitic_mobile_device_application_experiment\\2048_game\\app\\build\\intermediates\\cxx\\Debug\\3v492w4k\\obj\\x86_64\\liba2048_game.so",
       "runtimeFiles": []
     }
   },
   "toolchains": {
     "toolchain": {
-      "cCompilerExecutable": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
-      "cppCompilerExecutable": "/home/saku1192/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+      "cCompilerExecutable": "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\niwaw\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
   "cFileExtensions": [],
