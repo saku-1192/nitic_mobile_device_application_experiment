@@ -12,7 +12,7 @@ void GameLogic::reset() {
     }
     score_ = 0;
 
-    // 初期タイルを2つ配置
+    // 初期タイル
     addRandomTile();
     addRandomTile();
 }
