@@ -11,3 +11,6 @@
 4	820	1778222615378735953	CMakeFiles/a2048_game.dir/FontRenderer.cpp.o	ac6c2caee80eb88c
 4	929	1778222615486755236	CMakeFiles/a2048_game.dir/Renderer.cpp.o	16c34fea707df201
 930	980	1778222615546765950	/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so	891f272a2c24aa1b
+4	612	1778820721588153059	CMakeFiles/a2048_game.dir/GameLogic.cpp.o	a6357cf0a913f6af
+4	635	1778820721617153060	CMakeFiles/a2048_game.dir/main.cpp.o	fa418914e4c3eed9
+635	688	1778820721674153063	/home/saku1192/nitic_mobile_device_application_experiment/2048_game/app/build/intermediates/cxx/Debug/3v492w4k/obj/x86_64/liba2048_game.so	891f272a2c24aa1b
